@@ -1,5 +1,7 @@
 # 月隐·微光旅途
 
+[▶ 在线试玩](https://mumumuqingnuan.github.io/microglow-journey/) · [GitHub 仓库](https://github.com/mumumuqingnuan/microglow-journey)
+
 36 张图像卡组成的互动网页，包含一张微光、三张卡故事漫游与五步手记，以及洗牌、放大翻牌、光晕粒子、全屏、音乐、手记保存和结果图导出。
 
 ## 文件
